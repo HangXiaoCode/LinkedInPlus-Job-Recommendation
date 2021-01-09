@@ -25,6 +25,9 @@ Front-end Structure
 
 ## Major Impacts
 Built web application for users to search, save and apply job positions using JavaScript, HTML, CSS, and AJAX.
+
 Implemented RESTful APIs on Java Servlets to retrieve job descriptions and interreact with database using MySQL on Amazon RDS, and extracted job keywords with TF-IDF algorithm using Monkey Learn API.
+
 Recommended jobs using Content-based Recommendation algorithm based on user search history and favorites.
+
 Deployed the service to AWS EC2 with Docker container to handle 150+ queries per second.
